@@ -8,5 +8,14 @@ A simple Python tool that evaluates password strength.
 - Encourages better security practices
 
 ## How to Run
+
 ```bash
 python3 main.py
+'''
+
+## Example Output
+
+'''bash
+Enter a password: Password123!
+Strong password ✅
+'''
