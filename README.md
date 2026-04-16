@@ -4,7 +4,7 @@ A simple Python tool that evaluates password strength based on basic security ru
 
 ## Installation
 
-Clone the repository and run the program:
+Clone the repository:
 
 ```bash
 git clone https://github.com/RutherfordCyber/password-checker.git
