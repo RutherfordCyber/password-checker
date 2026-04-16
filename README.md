@@ -2,7 +2,7 @@
 
 A simple Python tool that evaluates password strength based on basic security rules.
 
-##Installation
+## Installation
 
 Clone the repository and run the program:
 
