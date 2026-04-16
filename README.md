@@ -1,6 +1,6 @@
 # Password Checker 🔐
 
-A simple Python tool that evaluates password strength.
+A simple Python tool that evaluates password strength based on basic security rules.
 
 ## Features
 - Checks password length
