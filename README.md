@@ -11,6 +11,9 @@ git clone https://github.com/RutherfordCyber/password-checker.git
 cd password-checker
 ```
 
+## Requirements
+- Python 3.x
+
 ## Features
 - Validates password length
 - Identifies weak vs strong passwords
