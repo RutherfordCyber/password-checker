@@ -12,9 +12,9 @@ cd password-checker
 ```
 
 ## Features
-- Checks password length
-- Detects weak vs strong passwords
-- Encourages better security practices
+- Validates password length
+- Identifies weak vs strong passwords
+- Promotes better security practices
 
 ## How to Run
 
