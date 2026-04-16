@@ -20,7 +20,7 @@ cd password-checker
 - Promotes better security practices
 
 ## How to Run
-
+Run the program:
 ```bash
 python3 main.py
 ```
