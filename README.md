@@ -11,11 +11,11 @@ A simple Python tool that evaluates password strength.
 
 ```bash
 python3 main.py
-'''
+```
 
 ## Example Output
 
-'''bash
+```bash
 Enter a password: Password123!
 Strong password ✅
-'''
+```
