@@ -9,7 +9,6 @@ Clone the repository and run the program:
 ```bash
 git clone https://github.com/RutherfordCyber/password-checker.git
 cd password-checker
-python3 main.py
 ```
 
 ## Features
